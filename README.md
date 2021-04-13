@@ -1,1 +1,2 @@
-# Python-repo
+# Git練習用
+update-readme
